@@ -1,2 +1,2 @@
 # Testing
-Author - Ajit Bachhav
+Author - Ajit B. Bachhav
